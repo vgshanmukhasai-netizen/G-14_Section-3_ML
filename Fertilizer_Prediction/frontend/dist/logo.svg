@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="FertilizerAI logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ebfff3"/>
+      <stop offset="100%" stop-color="#d8f5e6"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4caf50"/>
+      <stop offset="100%" stop-color="#2e7d32"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M64 20C82 42 96 52 96 72c0 21-18 36-32 36S32 93 32 72c0-19 14-31 32-52Z" fill="url(#leaf)"/>
+  <path d="M64 34v53" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M37 71c16-10 27-12 27-12" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M64 85c18-8 28-17 28-28" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>
